@@ -45,7 +45,7 @@ By working through these notebooks, you will:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/intro-to-python.git
+git clone https://github.com/enzodipasquale/intro-to-python.git
 cd intro-to-python
 ```
 
