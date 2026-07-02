@@ -1,14 +1,12 @@
 # Intro to Python, NumPy, and PyTorch
 
-Teaching notebooks for an introductory course on scientific computing in Python. They start from zero and build up to NumPy and PyTorch, so no prior Python is needed.
+Teaching notebooks for an introductory course on scientific computing in Python, with economics examples. They start from basic Python and build up to NumPy and PyTorch.
 
-## Notebooks
+## Notebook map
 
-Work through them in order:
-
-- `lecture0_python.ipynb` — variables and types, arithmetic, control flow, and how floating point actually works.
-- `lecture1_numpy.ipynb` — creating arrays, shapes and dtypes, broadcasting, and reductions over axes.
-- `lecture2_pytorch.ipynb` — tensors, contiguous storage and strides, views vs. copies, and reshaping.
+- [`lecture0_python.ipynb`](notebooks/lecture0_python.ipynb) - Python syntax, scalar types, floating-point limits, lists/tuples/dictionaries, loops, comprehensions, functions, recursion, merge sort, and dynamic programming for knapsack.
+- [`lecture1_numpy.ipynb`](notebooks/lecture1_numpy.ipynb) - NumPy arrays as tensors: shapes, dtypes, reductions over axes, slicing, fancy and boolean indexing, reshaping, broadcasting, matrix multiplication, linear algebra, value iteration, and policy iteration.
+- [`lecture2_pytorch.ipynb`](notebooks/lecture2_pytorch.ipynb) - PyTorch tensors, strides, contiguous storage, views vs. copies, reshape/view behavior, CUDA checks, autograd, Jacobians/Hessians, MLE for a logit model, and a small neural-network classifier.
 
 ## Setup
 
