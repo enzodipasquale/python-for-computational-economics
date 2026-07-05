@@ -1,4 +1,4 @@
-# Intro to Python, NumPy, and PyTorch
+# Python for Computational Economics
 
 Teaching notebooks for an introductory course on scientific computing in Python, with economics examples. They start from basic Python and build up to NumPy and PyTorch.
 

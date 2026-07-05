@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "intro-to-python"
+name = "python-for-computational-economics"
 version = "1.0.0"
 description = "Introductory course materials for Python, NumPy, and PyTorch in Economics"
 authors = [
@@ -59,10 +59,9 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/nyu-economics/intro-to-python"
-Documentation = "https://intro-to-python.readthedocs.io/"
-Repository = "https://github.com/nyu-economics/intro-to-python.git"
-Issues = "https://github.com/nyu-economics/intro-to-python/issues"
+Homepage = "https://github.com/enzodipasquale/python-for-computational-economics"
+Repository = "https://github.com/enzodipasquale/python-for-computational-economics.git"
+Issues = "https://github.com/enzodipasquale/python-for-computational-economics/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
@@ -142,4 +141,4 @@ exclude_lines = [
     "if __name__ == .__main__.:",
     "class .*\\bProtocol\\):",
     "@(abc\\.)?abstractmethod",
-] 
+]
